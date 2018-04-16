@@ -12,7 +12,7 @@ Time spent: **3** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [X] GIF Walkthrough: ![alt-text](./Unauthorized XSS.gif)
+  - [X] GIF Walkthrough: ![alt-text](./UnauthorizedXSS.gif)
   - [X] Steps to recreate: 
   		a. paste the following code into a post and post it on to the website:
 
