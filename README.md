@@ -12,7 +12,7 @@ Time spent: **3** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
-  - [X] GIF Walkthrough: ![alt-text][./Unauthorized XSS.gif]
+  - [X] GIF Walkthrough: ![alt-text](./Unauthorized XSS.gif)
   - [X] Steps to recreate: 
   		a. paste the following code into a post and post it on to the website:
 
@@ -25,7 +25,7 @@ Time spent: **3** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.6
-  - [X] GIF Walkthrough: ![alt-text][./XSS3.gif]
+  - [X] GIF Walkthrough: ![alt-text](./XSS3.gif)
   - [X] Steps to recreate: 
   		a. Copy and paste the following code into any post and post it on the website:
 
@@ -37,7 +37,7 @@ Time spent: **3** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.4
-  - [X] GIF Walkthrough: ![alt-text][./XSS2.gif]
+  - [X] GIF Walkthrough: ![alt-text](./XSS2.gif)
   - [X] Steps to recreate: 
   		a. Paste the following code into any post and post it on the website
   - [X] Affected source code:
