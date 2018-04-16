@@ -43,16 +43,12 @@ Time spent: **3** hours spent in total
   - [X] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/changeset/33549)
 
-## Assets
-
-List any additional assets, such as scripts or files
 
 ## Resources
 
 - [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
 - [WordPress Developer Reference](https://developer.wordpress.org/reference/)
 
-GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
